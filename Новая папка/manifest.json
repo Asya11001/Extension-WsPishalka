@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Морзянка",
+  "description": "",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_title": "Морзянка",
+    "default_popup": "/src/index.html"
+  }
+//  "web_accessible_resources": [
+//    "/src/audio_file_testN2.mp3"
+//  ]
+}
